@@ -32,12 +32,9 @@ This repository includes:
 
 ### Phase 1: Kubernetes Deployment
 ![Kubernetes Architecrure](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Phase1.png)
-![Azure Functions Architecture](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Phase2.png)
 
 ### Phase 2: Azure Functions Automation
-- **Azure Blob Storage**: Stored datasets and trained models.
-- **Azure Functions**: Automated the retraining, rebuilding, and redeployment processes.
-- **HTTP Endpoint**: Provided an accessible API for predictions.
+![Azure Functions Architecture](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Phase2.png)
 
 ---
 
