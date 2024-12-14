@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flask-spam-detector
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: flask-spam-detector
+  template:
+    metadata:
+      labels:
+        app: flask-spam-detector
+    spec:
+      containers:
+      - name: flask-spam-detector
+        image: capstonecncf.azurecr.io/flask-spam-detector:v1
+        ports:
+        - containerPort: 5001
