@@ -91,7 +91,7 @@ Identified potential security risks and proposed mitigations:
 - **Container Privileges**: Use a non-root user in the Docker container.
 - **Input Validation**: Validate and sanitize inputs to prevent injection attacks.
 
-For a detailed analysis, refer to the [Vulnerability Analysis section](report/Capstone_Final_Report.md#vulnerability-analysis) in the report.
+For a detailed analysis, refer to the [Vulnerability Analysis section](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Report/Indrasena_Final_Report.pdf) in the report.
 
 ---
 
