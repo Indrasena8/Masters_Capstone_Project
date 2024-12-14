@@ -103,6 +103,8 @@ For a detailed analysis, refer to the [Vulnerability Analysis section](https://g
 - Reliable hosting and API access:
   - **Predict API**: [https://spamemaildetection.azurewebsites.net/api/predict](https://spamemaildetection.azurewebsites.net/api/predict)
   - **Hosted Application**: [http://172.210.63.81](http://172.210.63.81)
+- Results: [Results](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Results.png)
+
 
 ---
 
@@ -117,7 +119,6 @@ For a detailed analysis, refer to the [Vulnerability Analysis section](https://g
 
 - **Comparison of Cloud Providers**: Evaluate similar workloads on AWS, Azure, and GCP.
 - **Security Enhancements**: Implement all identified mitigations.
-- **Scaling Workflows**: Extend to multi-service architectures using Kubernetes.
 
 ---
 
@@ -135,6 +136,6 @@ For a detailed analysis, refer to the [Vulnerability Analysis section](https://g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cloud-native-application.git
+   git clone https://github.com/Indrasena8/Masters_Capstone_Project.git
 2.	Follow the instructions in the report/Capstone_Final_Report.md for implementation details.
 3.	Deploy the application using the provided configuration files in the deployment/ folder.
