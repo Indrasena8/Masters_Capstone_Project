@@ -103,7 +103,7 @@ For a detailed analysis, refer to the [Vulnerability Analysis section](https://g
 - Reliable hosting and API access:
   - **Predict API**: [https://spamemaildetection.azurewebsites.net/api/predict](https://spamemaildetection.azurewebsites.net/api/predict)
   - **Hosted Application**: [http://172.210.63.81](http://172.210.63.81)
-- Results: [Results](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Results.png)
+- Results: ![Results](https://github.com/Indrasena8/Masters_Capstone_Project/blob/main/Images/Results.png)
 
 
 ---
