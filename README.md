@@ -129,13 +129,3 @@ For a detailed analysis, refer to the [Vulnerability Analysis section](https://g
 3. [Introduction to Kubernetes](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-kubernetes)
 4. [Serverless on Kubernetes](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-serverless-on-kubernetes-lfs157)
 5. [AI/ML Toolkits with Kubeflow](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147)
-
----
-
-## How to Use This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Indrasena8/Masters_Capstone_Project.git
-2.	Follow the instructions in the report/Capstone_Final_Report.md for implementation details.
-3.	Deploy the application using the provided configuration files in the deployment/ folder.
